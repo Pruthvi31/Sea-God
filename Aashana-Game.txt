@@ -1,0 +1,23 @@
+PC - Sea God
+NPC - Fish (infinite), monsters(infinite)
+background - ocean (4 types)
+Goal - PC save the fish by killing the monsters
+Story-
+rules- 
+1. sea god can move anywhere(Arrow keys)
+2. fishes would be coming from 3 sides(moving auto)
+3. monsters from one side
+4. sea god needs to kill monster before it touches the fish
+5. monster touches the fish points would be deducted-points-100 - 3 chances for sea god 
+6. after 3 chances game would be over.
+7. sea god kills the monsters - points-100
+8. fishes would be generated and go outside from opposite sides.
+9. difficulty level as per the monsters' speed
+
+Adaptivity-
+
+At first, monsters would be slow, after few frames velocity would increase.
+
+balance - slow speed for fishes and faster for sea god
+
+feedback- lives saved - scores for PC
